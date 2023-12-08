@@ -151,3 +151,8 @@ main hr {
 .footer > div{
     width: 223px    ;
 }
+
+.github-btn{
+    color: white;
+    text-decoration: none;
+}
